@@ -11,7 +11,7 @@ const Sidebar = () => {
   return (
     <div className="bg-gray-200 text-gray-900 h-screen px-6 py-5 mx-2 my-4 fixed w-16 md:w-64 border-r border-gray-300 top-0">
       <div className="text-3xl  space-x-4 font-bolder hidden md:block  ">
-        AISH Shop
+        XYZ Shop
       </div>
       <ul className="flex flex-col mt5 text-xl">
         <li className="flex items-center py-3 px-2 space-x-4 hover:rounded hover:cursor-pointer">
